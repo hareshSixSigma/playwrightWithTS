@@ -28,7 +28,7 @@ npx playwright test --headed
 npx playwright show-report
 
 # Configuration
-# Edit playwright.config.ts to:
+Edit playwright.config.ts to:
 
 Set base URL
 Configure browser/device settings
