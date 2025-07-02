@@ -1,0 +1,24 @@
+{
+  "name": "playwrightwithts",
+  "version": "1.0.0",
+  "description": "Playwright with Type Script Project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hareshSixSigma/playwrightWithTS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hareshSixSigma/playwrightWithTS/issues"
+  },
+  "homepage": "https://github.com/hareshSixSigma/playwrightWithTS#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10",
+    "playwright": "^1.53.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
