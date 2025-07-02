@@ -6,8 +6,8 @@ Playwright with Type Script Project
 ### 1. Clone the Repository
 
 Got to Terminal
-git clone https://github.com/your-username/playwright-ts-framework.git
-cd playwright-ts-framework
+git clone (https://github.com/hareshSixSigma/playwrightWithTS.git)
+cd playwrightWithTS
 
 # Install Dependencies
 npm install
